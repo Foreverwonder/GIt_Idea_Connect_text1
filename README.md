@@ -1,0 +1,2 @@
+# GIt_Idea_Connect_text1
+在idea上测试git的使用
